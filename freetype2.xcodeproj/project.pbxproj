@@ -1683,6 +1683,7 @@
 				PRODUCT_NAME = Freetype2;
 				SDKROOT = iphoneos;
 				SUPPORTED_PLATFORMS = "iphonesimulator iphoneos";
+				VALID_ARCHS = "arm64 armv7 armv7s armv6 i386";
 				WARNING_CFLAGS = (
 					"-Wextra",
 					"-Wall",
@@ -1705,6 +1706,7 @@
 				PRODUCT_NAME = Freetype2;
 				SDKROOT = iphoneos;
 				SUPPORTED_PLATFORMS = "iphonesimulator iphoneos";
+				VALID_ARCHS = "arm64 armv7 armv7s armv6 i386";
 				WARNING_CFLAGS = (
 					"-Wextra",
 					"-Wall",
