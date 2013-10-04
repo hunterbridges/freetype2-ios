@@ -1682,6 +1682,7 @@
 				OTHER_LDFLAGS = "";
 				PRODUCT_NAME = Freetype2;
 				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
 				SUPPORTED_PLATFORMS = "iphonesimulator iphoneos";
 				VALID_ARCHS = "arm64 armv7 armv7s armv6 i386";
 				WARNING_CFLAGS = (
@@ -1705,6 +1706,7 @@
 				OTHER_CFLAGS = "";
 				PRODUCT_NAME = Freetype2;
 				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
 				SUPPORTED_PLATFORMS = "iphonesimulator iphoneos";
 				VALID_ARCHS = "arm64 armv7 armv7s armv6 i386";
 				WARNING_CFLAGS = (
